@@ -2,7 +2,7 @@
 
 Dimana Pusat Info Tentang Film yang Paling Lengkap
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mulai Dari Anime , Horror,Romantis ,Dan Lain Sebagainya
 
 ### Markdown
 
